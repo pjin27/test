@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="125" name="x_125087_innovate_u_short_description_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="125" name="x_125087_innovate_u_string_1" type="string"/>
+    </element>
+</database>
